@@ -12,7 +12,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.active{
+  color: black;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 0.3rem;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
