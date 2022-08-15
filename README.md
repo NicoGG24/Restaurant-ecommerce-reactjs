@@ -12,7 +12,7 @@ The project was made as an SPA (Single page application) using react-router-dom.
   
 ## Styling
 
-To style it, I used Tailwind CSS (learn more at: https://tailwindcss.com/docs/guides/create-react-app). The app is fully responsive since it was created for mobile first and then adapted to bigger screens.
+To style it, it was used Tailwind CSS (learn more at: https://tailwindcss.com/docs/guides/create-react-app). The app is fully responsive since it was created for mobile first and then adapted to bigger screens.
 
 ## Database
 The database was made using Firebase (learn more at: https://firebase.google.com/?hl=es). It was the database necessary to make this project according to the requirments given by Coderhouse to this project.
